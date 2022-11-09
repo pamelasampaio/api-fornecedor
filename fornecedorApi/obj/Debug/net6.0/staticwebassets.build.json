@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vpz38HBC3bkz4BBDirRt/MVY8D1IgVQYGcYiXFpTuA8=",
+  "Source": "fornecedorApi",
+  "BasePath": "_content/fornecedorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
